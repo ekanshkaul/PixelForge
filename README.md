@@ -13,7 +13,3 @@ Open the project folder and follow any instructions included there. Requirements
 ## Contributing
 
 Have an artwork to add? Contributions are welcome—feel free to open a pull request.
-
-## License
-
-Add a license to this repository if you’d like others to reuse or adapt its code.
